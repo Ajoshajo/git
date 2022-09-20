@@ -1,4 +1,4 @@
 <?php
 //Git Conflit
-echo 'Test'; 
+echo 'Test i'; 
 ?>
